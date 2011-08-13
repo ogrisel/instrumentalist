@@ -7,10 +7,17 @@ publishing.
 - Author: Olivier Grisel <olivier.grisel@ensta.org>
 - License: MIT
 
-# Dependencies
+This project started during the #CCCamp2011 as a hackathon on LinkedSensorData.
+More context here:
 
+  <http://events.ccc.de/camp/2011/wiki/LinkedSensorData>
+
+## Dependencies
+
+- python-serial
 - restkit
 - python-xbee (if your sensors use the XBee serial interface)
 
+## TODO: support more devices
 
-# TODO: support more devices
+
