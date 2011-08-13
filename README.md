@@ -1,7 +1,7 @@
 # Instrumentalist
 
 Python tools to fetch data from sensor devices (such as ZigBee sensor networks)
-and store them in a CouchDB / refuge node cluster for storing, replication and
+and store them in a CouchDB / refuge node cluster for storage, replication and
 publishing.
 
 - Author: Olivier Grisel <olivier.grisel@ensta.org>
